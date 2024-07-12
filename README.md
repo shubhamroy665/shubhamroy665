@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently pursuing **MSc in Big Data Analytics** (2023-2025)
-- 💼 Completed an internship at **Prodigy InfoTech**, analyzing Indian IPO data from 2010 to 2023
+- 💼 Completed an internship at **Prodigy InfoTech**
 - 🎓 Graduated with a **BSc in Mathematics** (2020-2023)
 - 💬 Ask me about **Python, Pandas, Scikit-Learn, MySQL**
 - 🏆 Completed **HackerRank SQL Basic** and **Python Basic** tests with certificates
-- 📫 Reach me at **shubham.roy@example.com**
+- 📫 Reach me at **shubham.roy@gmail.com**
 - ⚡ Fun fact: **I love to play cricket and solve puzzles** 
-- 🚀 Currently working on a **Car Price Dataset Analysis** and a **Traffic Accident Severity Prediction Project** with Random Forest achieving 84% accuracy
+- 🚀 Currently working on  **time series prediction with GARCH Model** under my summer internship in **IISER , KOLKATA**
 
 <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA3Njg0NzMsIm5iZiI6MTcyMDc2ODE3MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEyVDA3MDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxM2M4ODlmODBlNTgxNmI5ODkyMDRmMzUxMTVmYjhmZDhiMmUwZTJjNzAzYjg1YjhhOTEzZDM0ODU2ZTNhMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FBOnPDNRB8iZeKilUTDj2RNqC_LeJ8YcmlLXDV6zUJs" alt="Coding" width="600" style="display: block; margin-left: auto; margin-right: auto;">
@@ -28,8 +28,8 @@
   <a href="https://linkedin.com/in/shubham-roy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/shubhamroy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/royshubham604" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrenk.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://github.com/shubhamroy123" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
