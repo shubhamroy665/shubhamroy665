@@ -20,7 +20,7 @@
 - 🚀 Currently working on a **Car Price Dataset Analysis** and a **Traffic Accident Severity Prediction Project** with Random Forest achieving 84% accuracy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="600" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA3Njg0NzMsIm5iZiI6MTcyMDc2ODE3MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEyVDA3MDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxM2M4ODlmODBlNTgxNmI5ODkyMDRmMzUxMTVmYjhmZDhiMmUwZTJjNzAzYjg1YjhhOTEzZDM0ODU2ZTNhMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FBOnPDNRB8iZeKilUTDj2RNqC_LeJ8YcmlLXDV6zUJs" alt="Coding" width="600" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 ## 🌐 Connect with Me
