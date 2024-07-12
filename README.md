@@ -76,7 +76,7 @@
 </div>
 
 ## 🚀 Current Projects
-[Time Series Prediction Using GARCH Models] - Under the guidance of Satyaki Mazumder, Head of the Statistics Department at IISER Kolkata, this project focuses on using GARCH models to predict and analyze time series data. The project aims to enhance predictive accuracy and understand volatility patterns in financial datasets.
+- [Time Series Prediction Using GARCH Models] - Under the guidance of Satyaki Mazumder, Head of the Statistics Department at IISER Kolkata, this project focuses on using GARCH models to predict and analyze time series data. The project aims to enhance predictive accuracy and understand volatility patterns in financial datasets.
 
 ---
 
