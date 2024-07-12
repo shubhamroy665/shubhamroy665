@@ -76,8 +76,7 @@
 </div>
 
 ## 🚀 Current Projects
-- [Car Price Prediction Analysis](https://github.com/shubhamroy123/Car-Price-Analysis) - Analyzing various factors affecting car prices using multiple regression models to provide insights and predictions.
-- [Traffic Accident Severity Prediction](https://github.com/shubhamroy123/Traffic-Accident-Prediction) - Predicting the severity of traffic accidents using machine learning models, with a Random Forest achieving 84% accuracy.
+[Time Series Prediction Using GARCH Models] - Under the guidance of Satyaki Mazumder, Head of the Statistics Department at IISER Kolkata, this project focuses on using GARCH models to predict and analyze time series data. The project aims to enhance predictive accuracy and understand volatility patterns in financial datasets.
 
 ---
 
