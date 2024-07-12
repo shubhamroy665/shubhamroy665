@@ -28,10 +28,7 @@
   <a href="https://linkedin.com/in/shubham-roy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/royshubham604" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrenk.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://github.com/shubhamroy123" target="_blank">
+  <a href="https://github.com/shubhamroy665/shubhamroy665" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
@@ -67,15 +64,15 @@
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamroy123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamroy665&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhamroy123&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhamroy665&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
 </div>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamroy123" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamroy665" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Current Projects
