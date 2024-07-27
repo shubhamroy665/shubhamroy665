@@ -15,7 +15,7 @@
 - 🎓 Graduated with a **BSc in Mathematics** (2020-2023)
 - 💬 Ask me about **Python, Pandas, Scikit-Learn, MySQL**
 - 🏆 Completed **HackerRank SQL Basic** and **Python Basic** tests with certificates
-- 📫 Reach me at **shubham.roy@gmail.com**
+- 📫 Reach me at **royshubham604@gmail.com**
 - ⚡ Fun fact: **I love to play cricket and solve puzzles** 
 - 🚀 Currently working on  **time series prediction with GARCH Model** under my summer internship in **IISER , KOLKATA**
 
@@ -25,7 +25,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/shubham-roy" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-roy-0ab1a6285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/shubhamroy665/shubhamroy665" target="_blank">
